@@ -72,19 +72,19 @@ function draw() {
   rectMode(CENTER);
   background("orange")
 
- // detectCollision(stone,mango1);
- // detectCollision(stone,mango2);
- // detectCollision(stone,mango3);
- // detectCollision(stone,mango4);
- // detectCollision(stone,mango5);
- // detectCollision(stone,mango6);
-  //detectCollision(stone,mango7);
-  //detectCollision(stone,mango8); 
- /// detectCollision(stone,mango9);
- /// detectCollision(stone,mango10);
- /// detectCollision(stone,mango11);
-  ///detectCollision(stone,mango12);
-  ///detectCollision(stone,mango13);
+detectCollision(stone,mango1);
+detectCollision(stone,mango2);
+detectCollision(stone,mango3);
+detectCollision(stone,mango4);
+detectCollision(stone,mango5);
+detectCollision(stone,mango6);
+detectCollision(stone,mango7);
+detectCollision(stone,mango8); 
+detectCollision(stone,mango9);
+detectCollision(stone,mango10);
+detectCollision(stone,mango11);
+detectCollision(stone,mango12);
+detectCollision(stone,mango13);
 
     boy.display();
     tree.display();
