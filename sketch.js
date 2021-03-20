@@ -107,7 +107,7 @@ detectCollision(stone,mango13);
 	stone.display();
 	sling1.display();
 	
-	keypressed();
+	
   drawSprites();
  
 }
